@@ -1,5 +1,5 @@
 # Duplicate Emails
-* Write a SQL query to find all duplicate emails in a table named `Person`
+* Write a SQL query to find all duplicate email-ids in a table named `Person`.
 
 ### Person Table
 | Id    | Email      |
