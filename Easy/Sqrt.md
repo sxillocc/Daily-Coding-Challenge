@@ -8,9 +8,12 @@
 class Solution {
 public:
     int mySqrt(int x) {
+    
         double s = sqrt(x);
         int ans = (int) s;
+        
         // cout<<ans; //for debugging
+        
         return ans;
     }
 };
