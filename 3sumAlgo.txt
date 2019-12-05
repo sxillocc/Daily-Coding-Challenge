@@ -1,0 +1,86 @@
+array : 2, -1, 3, -4, 5, -1, 9, 0, 6, -3, -10, -15
+size = 12
+sorted array : -15 ,-10 ,-4 ,-3 ,-1 ,-1 ,0 , 2, 3, 5, 6, 9 
+mid = 11/2 = 5
+Sum = 0
+
+f(-15){
+	//for positive num
+	//reverse linear
+	g(9) => 6<=9 True -- found
+	g(6) => 9<=9 True -- found
+	g(5) => 10<=9 False break reverse linear;
+	
+	//for negative num
+	//-(n) i.e 15 is greater than 9 therefore no element
+}
+
+f(-10){
+	//using above algo
+	g(9) => 1<=9 True -- not found
+	g(6) => 4<=9 True -- not found
+	g(5) => 5<=9 True -- found
+	g(3) => 7<=9 True -- not found
+	g(2) => 8<=9 True -- not found
+	g(0) => 10<=9 False break reverse linear;
+	
+	//no need for checking number < 0
+}
+...
+f(-1){
+	g(9) => -8<=9 True --not found
+	g(6) => -5<=9 True --not found
+	g(5) => -4<=9 True --found
+	g(3) => -2<=9 True --not found
+	g(0) => 1 no
+	g(-1) => 2 yes
+	g(-1) => 2 yes -- but avoid repeatation
+	g(-3) => 4 no
+	g(-4) => 5 yes
+	g(-10) => 11 break;
+}
+f(-1) =>{
+	Don't do again as f_prev(n) == f_current(n)
+	or array[n-1] == array[n]
+}
+// working for negative numbers.....
+f(0){
+	g(9)=> no
+	g(6)=> no
+	...
+	g(-10)=> 10 break;
+}
+//working for zero too...
+f(2){
+	g(9)=>-11 good
+	g(6)=>-8 good
+	...
+	g(-15) =>break
+}
+f(9){
+	g(9)=>-18 good
+	...
+	g(-15)=>6 good.. loop end(Terminating condition)
+}
+//working for positive num
+
+//check anything repeated or not??
+since -15, 6, 9 camed in first loop
+
+check whether it is repeating in f(9) or not ??
+f(9) will work for entire g(9) to g(-15) ... bad thing
+it is repeating
+
+tackle repeating by:-
+	method 1: making zeros
+		since: " we have taken all pairs including -15 in f(-15)"
+		therefore: " we don't need -15 any more "
+			so either pop -15 =>umm.. no problem
+			or make it zero => bad... since we need binary search(harm sorting
+				and resorting is costly)...
+
+
+so inside f(n){
+	//code..goes..here
+	pop first element....
+}
