@@ -1,0 +1,5 @@
+7th Jan 2020:
+	Read longest common substring solution.
+	Expanded from center for palindrome.
+	Mancher's Algo part 1.
+	
