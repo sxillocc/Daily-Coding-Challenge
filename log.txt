@@ -1,5 +1,8 @@
 7th Jan 2020:
-	Read longest common substring solution.
+	Read longest palindromic substring solution.
 	Expanded from center for palindrome.
 	Mancher's Algo part 1.
+8th Jan 2020:
+	Watched tutorial for Mancher's Algo.
+	Completed Longest Palindromic Substring Problem.
 	
