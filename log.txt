@@ -5,4 +5,6 @@
 8th Jan 2020:
 	Watched tutorial for Mancher's Algo.
 	Completed Longest Palindromic Substring Problem.
+9th Jan 2020:
+	Completed Valid Parentheses Problem.
 	
