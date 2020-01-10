@@ -7,4 +7,6 @@
 	Completed Longest Palindromic Substring Problem.
 9th Jan 2020:
 	Completed Valid Parentheses Problem.
+10th Jan 2020:
+	Revised Quick Sort.
 	
