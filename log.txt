@@ -9,4 +9,6 @@
 	Completed Valid Parentheses Problem.
 10th Jan 2020:
 	Revised Quick Sort.
+11th Jan 2020:
+	Coding Arena in Hacker-Earth.
 	
