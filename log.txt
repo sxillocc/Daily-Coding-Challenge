@@ -11,6 +11,10 @@
 	Revised Quick Sort.
 11th Jan 2020:
 	Coding Arena in Hacker-Earth.
-12th Jan 2020"
+12th Jan 2020:
 	Greedy Algo Practise.
+13th Jan 2020:
+	Brute Force Search String.
+	KMP Algo.
+	Quick Sort Analysis.
 	
