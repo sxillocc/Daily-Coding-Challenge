@@ -17,4 +17,8 @@
 	Brute Force Search String.
 	KMP Algo.
 	Quick Sort Analysis.
+14th Jan 2020:
+	Completed Day1 Challenge Codathon.
+	Partially Completed Day2 Challenge Codathon.
+	Started Generate Paranthesis in Leetcode.
 	
