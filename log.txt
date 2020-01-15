@@ -21,4 +21,13 @@
 	Completed Day1 Challenge Codathon.
 	Partially Completed Day2 Challenge Codathon.
 	Started Generate Paranthesis in Leetcode.
+15th Jan 2020:
+	Completed Remove Duplicates From Sorted Array.
+	Completed Maximum Subarray.
+	Learned Divide and Conquer Algo.
+	Analysed Insertion Sort Algo.
+	Revised Merge Sort Algo.	
+	Completed Day2 Challenge Codathon.
+	Started Day3 Challenge  Codathon.
+	
 	
