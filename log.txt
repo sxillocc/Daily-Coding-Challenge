@@ -29,5 +29,9 @@
 	Revised Merge Sort Algo.	
 	Completed Day2 Challenge Codathon.
 	Started Day3 Challenge  Codathon.
+//restart
+17th Jan 2020:
+	Tried Day4 Problem Codathon.
+	Learned Modulo 1000000007 concept.
 	
 	
