@@ -37,4 +37,8 @@
 19th Jan 2020:
 	Completed P1 AND P3 in SET-1 Jan Circuits.
 	Partially Completed P2 in SET-1 Jan Circuits.
+20th Jan 2020:
+	Started P5 Set-2 Jan Circuits.
+21th Jan 2020:
+	Continued P5.
 	
