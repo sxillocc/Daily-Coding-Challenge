@@ -41,4 +41,6 @@
 	Started P5 Set-2 Jan Circuits.
 21th Jan 2020:
 	Continued P5.
+22nd Jan 2020:
+	Started P7 Jan Circuits.
 	
